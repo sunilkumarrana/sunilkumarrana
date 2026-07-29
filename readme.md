@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-   <a href="https:[//www.google.com](https://portfolio-website-jade-nu-42.vercel.app/)">About Me</a>
+   <a href="https://portfolio-website-jade-nu-42.vercel.app/">This is the complete summary about me</a>
 ---
 
 ### 🛠️ Tech Stack
