@@ -12,50 +12,13 @@
 ---
 
 ### 🚀 About Me
-
-- 🔭 Currently building **AI Agents for Business** — automating tasks like expense management & sales pipeline insights
-- 🌱 Exploring cloud cost optimization & anomaly detection
-- 💻 Comfortable across the stack: Python, TypeScript, Django, React
-- 🏆 Active on LeetCode, sharpening problem-solving skills
-- 📫 Reach me at **sunilkumarrana6592@gmail.com**
-
+   <a href="https:[//www.google.com](https://portfolio-website-jade-nu-42.vercel.app/)">About Me</a>
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,ts,react,js,html,css,git,github,vscode" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sunilkumarrana&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sunilkumarrana&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunilkumarrana&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sunilkumarrana/sunilkumarrana/output/github-contribution-grid-snake.svg" />
-</p>
-
-> Note: The snake animation needs a one-time GitHub Actions setup — see the note at the bottom.
-
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sunilkumarrana&theme=tokyonight&row=1&column=6&margin-w=8" />
 </p>
 
 ---
@@ -71,9 +34,6 @@
   </a>
   <a href="https://g.dev/SunilKumarRana" target="_blank">
     <img src="https://img.shields.io/badge/Google_Dev_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <a href="mailto:sunilkumarrana6592@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
