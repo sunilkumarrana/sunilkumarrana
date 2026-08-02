@@ -7,7 +7,7 @@
 ---
 
 ### 🚀 About Me
-   <a href="https://portfolio-website-jade-nu-42.vercel.app/">Click</a>
+   <a href="https://portfolio-website-jade-nu-42.vercel.app/">Click ME</a>
 ---
 
 ### 🛠️ Tech Stack
