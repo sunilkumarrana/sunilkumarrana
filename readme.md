@@ -4,15 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Building+AI+Agents+%26+Web+Apps;Python+%7C+TypeScript+%7C+React;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sunilkumarrana&color=00F7FF&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/sunilkumarrana?label=Followers&style=flat-square&color=00F7FF" />
-</p>
-
 ---
 
 ### 🚀 About Me
-   <a href="https://portfolio-website-jade-nu-42.vercel.app/">This is the complete summary about me</a>
+   <a href="https://portfolio-website-jade-nu-42.vercel.app/">Click</a>
 ---
 
 ### 🛠️ Tech Stack
