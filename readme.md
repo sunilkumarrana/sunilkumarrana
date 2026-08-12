@@ -5,12 +5,11 @@
 ---
 
 ## 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<!--START_TECH_STACK-->
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<!--END_TECH_STACK-->
 
 ---
 
@@ -35,14 +34,15 @@
 ---
 
 ## 📌 Pinned projects
+<!--START_PINNED_PROJECTS-->
+- **[2D-Game](https://github.com/sunilkumarrana/2D-Game)**
+  No description provided.
+  🟡 JavaScript | ⭐ 0
 
-- **[[repo 1 name]](https://github.com/sunilkumarrana/[repo 1 name])**
-  [repo 1 description]
-  🟡 JavaScript (example) | ⭐ [star count]
-
-- **[[repo 2 name]](https://github.com/sunilkumarrana/[repo 2 name])**
-  [repo 2 description]
-  🔵 Python (example) | ⭐ [star count]
+- **[AI-Agents-for-Business](https://github.com/sunilkumarrana/AI-Agents-for-Business)**
+  This project builds AI agents to automate business tasks and improve such as managing employee expenses, decision-making. The agents manage expenses, optimize sales pipelines, generate insights from data, and support product innovation. They reduce manual work, improve accuracy, save time, and help businesses increase efficiency and productivity.
+  🟦 TypeScript | ⭐ 0
+<!--END_PINNED_PROJECTS-->
 
 ---
 
