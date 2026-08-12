@@ -1,16 +1,13 @@
 # Hi, I'm Sunil 👋
 
-Building AI agents and web apps · open to opportunities
+Building AI agents and web apps • open to opportunities
 
 ---
 
 ### 💻 Tech Stack
 
 <!--START_TECH_STACK-->
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat" />
 <!--END_TECH_STACK-->
 
 ---
@@ -31,28 +28,7 @@ Always learning, always building.
 
 ### 📊 GitHub stats
 
-<table width="100%">
-  <tr>
-    <td align="center" width="33%">
-      <br>
-      <b>Repos</b><br><br>
-      <h2>11</h2>
-      <br>
-    </td>
-    <td align="center" width="33%">
-      <br>
-      <b>Contributions</b><br><br>
-      <h2>120+</h2>
-      <br>
-    </td>
-    <td align="center" width="33%">
-      <br>
-      <b>Streak</b><br><br>
-      <h2>3 weeks</h2>
-      <br>
-    </td>
-  </tr>
-</table>
+<img src="./stats.svg" />
 
 ---
 
@@ -67,7 +43,4 @@ Always learning, always building.
 
 ### 🔗 Connect
 
-<a href="https://sunilkumarrana.github.io"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=social&logo=About.me&logoColor=black" /></a>
-<a href="https://leetcode.com/u/sunilkumarrana"><img src="https://img.shields.io/badge/LeetCode-ffffff?style=social&logo=LeetCode&logoColor=black" /></a>
-<a href="https://instagram.com/sunil_kumar_rana_01"><img src="https://img.shields.io/badge/Instagram-ffffff?style=social&logo=Instagram&logoColor=black" /></a>
-<a href="mailto:sunilkumarrana6592@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=social&logo=gmail&logoColor=black" /></a>
+<a href="https://sunilkumarrana.github.io"><img src="./btn_portfolio.svg" /></a> &nbsp; <a href="https://leetcode.com/u/sunilkumarrana"><img src="./btn_leetcode.svg" /></a> &nbsp; <a href="https://instagram.com/sunil_kumar_rana_01"><img src="./btn_instagram.svg" /></a> &nbsp; <a href="mailto:sunilkumarrana6592@gmail.com"><img src="./btn_email.svg" /></a>
