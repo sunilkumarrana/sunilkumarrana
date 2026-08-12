@@ -61,11 +61,11 @@ for lang in sorted(languages):
     if lang in LANGUAGE_MAP:
         color, logo, logo_color = LANGUAGE_MAP[lang]
         lang_url = lang.replace(" ", "%20")
-        badge = f"![{lang}](https://img.shields.io/badge/{lang_url}-{color}?style=for-the-badge&logo={logo}&logoColor={logo_color})"
+        badge = f'<img src="https://img.shields.io/badge/{lang_url}-{color}?style=flat&logo={logo}&logoColor={logo_color}" />'
         tech_stack_md.append(badge)
     else:
         lang_url = lang.replace(" ", "%20")
-        badge = f"![{lang}](https://img.shields.io/badge/{lang_url}-informational?style=for-the-badge)"
+        badge = f'<img src="https://img.shields.io/badge/{lang_url}-informational?style=flat" />'
         tech_stack_md.append(badge)
 
 tech_stack_content = "\n".join(tech_stack_md)
@@ -78,21 +78,7 @@ pinned_projects_md = []
 for r in top_repos:
     name = r.get("name")
     url = r.get("html_url")
-    desc = r.get("description") or "No description provided."
-    lang = r.get("language") or "Unknown"
-    stars = r.get("stargazers_count")
-    
-    color_dot = "🟡"
-    if lang == "Python": color_dot = "🔵"
-    elif lang == "TypeScript": color_dot = "🟦"
-    elif lang == "HTML": color_dot = "🔴"
-    elif lang == "Java": color_dot = "☕"
-    elif lang == "C++": color_dot = "⚙️"
-    elif lang == "Jupyter Notebook": color_dot = "🟠"
-    
-    pinned_projects_md.append(f"- **[{name}]({url})**")
-    pinned_projects_md.append(f"  {desc}")
-    pinned_projects_md.append(f"  {color_dot} {lang} | ⭐ {stars}\n")
+    pinned_projects_md.append(f'<a href="{url}"><img src="https://github-readme-stats.vercel.app/api/pin/?username={USERNAME}&repo={name}&theme=default&show_owner=false" width="48%" /></a>')
 
 pinned_projects_content = "\n".join(pinned_projects_md).strip()
 

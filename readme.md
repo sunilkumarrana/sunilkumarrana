@@ -1,54 +1,73 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Sunil 👋
 
-**[your one-liner]**
+Building AI agents and web apps · open to opportunities
 
 ---
 
-## 🛠️ Tech Stack
+### 💻 Tech Stack
+
 <!--START_TECH_STACK-->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
 <!--END_TECH_STACK-->
 
 ---
 
-## 🧑 About me
+### 🧑🏻‍💻 About me
 
-[your 2-3 sentences describing who you are, what you work with, and your mindset]
-
----
-
-## 🌐 Portfolio
-
-[View my portfolio →]([link])
+I'm an AI & Web Developer who enjoys building intelligent agents and modern web applications.
+I work with LangChain, LLMs, Django, and React to solve real-world problems.
+Always learning, always building.
 
 ---
 
-## 📊 GitHub stats
+### 🌐 Portfolio
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilkumarrana&show_icons=true&theme=default)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sunilkumarrana&theme=default)
+[View my portfolio →](https://sunilkumarrana.github.io)
 
 ---
 
-## 📌 Pinned projects
+### 📊 GitHub stats
+
+<table width="100%">
+  <tr>
+    <td align="center" width="33%">
+      <br>
+      <b>Repos</b><br><br>
+      <h2>11</h2>
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <br>
+      <b>Contributions</b><br><br>
+      <h2>120+</h2>
+      <br>
+    </td>
+    <td align="center" width="33%">
+      <br>
+      <b>Streak</b><br><br>
+      <h2>3 weeks</h2>
+      <br>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📌 Pinned projects
+
 <!--START_PINNED_PROJECTS-->
-- **[2D-Game](https://github.com/sunilkumarrana/2D-Game)**
-  No description provided.
-  🟡 JavaScript | ⭐ 0
-
-- **[AI-Agents-for-Business](https://github.com/sunilkumarrana/AI-Agents-for-Business)**
-  This project builds AI agents to automate business tasks and improve such as managing employee expenses, decision-making. The agents manage expenses, optimize sales pipelines, generate insights from data, and support product innovation. They reduce manual work, improve accuracy, save time, and help businesses increase efficiency and productivity.
-  🟦 TypeScript | ⭐ 0
+<a href="https://github.com/sunilkumarrana/2D-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilkumarrana&repo=2D-Game&theme=default&show_owner=false" width="48%" /></a>
+<a href="https://github.com/sunilkumarrana/AI-Agents-for-Business"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilkumarrana&repo=AI-Agents-for-Business&theme=default&show_owner=false" width="48%" /></a>
 <!--END_PINNED_PROJECTS-->
 
 ---
 
-## 🔗 Connect
+### 🔗 Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([link])
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([LeetCode link])
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)]([Instagram link])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Email address])
+<a href="https://sunilkumarrana.github.io"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=social&logo=About.me&logoColor=black" /></a>
+<a href="https://leetcode.com/u/sunilkumarrana"><img src="https://img.shields.io/badge/LeetCode-ffffff?style=social&logo=LeetCode&logoColor=black" /></a>
+<a href="https://instagram.com/sunil_kumar_rana_01"><img src="https://img.shields.io/badge/Instagram-ffffff?style=social&logo=Instagram&logoColor=black" /></a>
+<a href="mailto:sunilkumarrana6592@gmail.com"><img src="https://img.shields.io/badge/Email-ffffff?style=social&logo=gmail&logoColor=black" /></a>
