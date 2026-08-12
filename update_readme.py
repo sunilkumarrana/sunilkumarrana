@@ -29,35 +29,34 @@ for r in repos:
     if lang:
         languages.add(lang)
 
-# Colors and logos for shields.io (RESTORED LOGOS to perfectly match image)
+# Colors for shields.io (NO LOGOS, flat pill style for uniformity)
 LANGUAGE_MAP = {
-    "Python": ("3776AB", "python", "white"),
-    "Django": ("092E20", "django", "white"),
-    "TypeScript": ("3178C6", "typescript", "white"),
-    "React": ("61DAFB", "react", "white"),
-    "JavaScript": ("F7DF1E", "javascript", "black"),
-    "HTML": ("E34F26", "html5", "white"),
-    "CSS": ("1572B6", "css3", "white"),
-    "Java": ("007396", "java", "white"),
-    "C++": ("00599C", "c%2B%2B", "white"),
-    "C#": ("239120", "c-sharp", "white"),
-    "Ruby": ("CC342D", "ruby", "white"),
-    "Go": ("00ADD8", "go", "white"),
-    "Rust": ("000000", "rust", "white"),
-    "PHP": ("777BB4", "php", "white"),
-    "Swift": ("F05138", "swift", "white"),
-    "Kotlin": ("7F52FF", "kotlin", "white"),
-    "Dart": ("0175C2", "dart", "white"),
-    "Vue": ("4FC08D", "vuedotjs", "white"),
-    "Angular": ("DD0031", "angular", "white"),
-    "Svelte": ("FF3E00", "svelte", "white"),
-    "Shell": ("4EAA25", "gnu-bash", "white"),
-    "C": ("A8B9CC", "c", "white"),
-    "Jupyter Notebook": ("F37626", "jupyter", "white"),
+    "Python": "3776AB",
+    "Django": "092E20",
+    "TypeScript": "3178C6",
+    "React": "61DAFB",
+    "JavaScript": "F7DF1E",
+    "HTML": "E34F26",
+    "CSS": "1572B6",
+    "Java": "007396",
+    "C++": "00599C",
+    "C#": "239120",
+    "Ruby": "CC342D",
+    "Go": "00ADD8",
+    "Rust": "000000",
+    "PHP": "777BB4",
+    "Swift": "F05138",
+    "Kotlin": "7F52FF",
+    "Dart": "0175C2",
+    "Vue": "4FC08D",
+    "Angular": "DD0031",
+    "Svelte": "FF3E00",
+    "Shell": "4EAA25",
+    "C": "A8B9CC",
+    "Jupyter Notebook": "F37626",
 }
 
 tech_stack_md = []
-# Match exact order from image if they exist
 preferred_order = ["Python", "Django", "TypeScript", "React", "JavaScript"]
 ordered_langs = [l for l in preferred_order if l in languages]
 other_langs = sorted([l for l in languages if l not in preferred_order])
@@ -65,9 +64,10 @@ final_langs = ordered_langs + other_langs
 
 for lang in final_langs:
     if lang in LANGUAGE_MAP:
-        color, logo, logo_color = LANGUAGE_MAP[lang]
+        color = LANGUAGE_MAP[lang]
         lang_url = lang.replace(" ", "%20")
-        badge = f'<img src="https://img.shields.io/badge/{lang_url}-{color}?style=flat&logo={logo}&logoColor={logo_color}" />'
+        # Removing the logos to keep it clean and minimal as requested
+        badge = f'<img src="https://img.shields.io/badge/{lang_url}-{color}?style=flat" />'
         tech_stack_md.append(badge)
     else:
         lang_url = lang.replace(" ", "%20")
@@ -153,4 +153,4 @@ readme = re.sub(pinned_projects_pattern, f"\\1\n{pinned_projects_content}\n\\3",
 with open("readme.md", "w", encoding="utf-8") as f:
     f.write(readme)
 
-print("Successfully updated readme.md with logos restored.")
+print("Successfully updated readme.md with uniform clean badges.")
