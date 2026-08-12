@@ -1,37 +1,54 @@
-<h1 align="center">Hi there, I'm Sunil 👋</h1>
+# Hi, I'm [Your Name] 👋
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Software+Developer;Building+AI+Agents+%26+Web+Apps;Python+%7C+TypeScript+%7C+React;Always+learning%2C+always+shipping" alt="Typing SVG" />
-</p>
+**[your one-liner]**
 
 ---
 
-### 🚀 About Me
-   <a href="https://portfolio-website-jade-nu-42.vercel.app/">Click ME</a>
----
+## 🛠️ Tech Stack
 
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,ts,react,js,html,css,git,github,vscode" />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
-### 🔗 Connect with Me
+## 🧑 About me
 
-<p align="center">
-  <a href="https://leetcode.com/u/sunilkumarrana/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.instagram.com/sunil_kumar_rana_01" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://g.dev/SunilKumarRana" target="_blank">
-    <img src="https://img.shields.io/badge/Google_Dev_Profile-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-</p>
+[your 2-3 sentences describing who you are, what you work with, and your mindset]
 
 ---
 
-<p align="center"><i>Thanks for stopping by — feel free to explore my pinned repos below ⬇️</i></p>
+## 🌐 Portfolio
+
+[View my portfolio →]([link])
+
+---
+
+## 📊 GitHub stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sunilkumarrana&show_icons=true&theme=default)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sunilkumarrana&theme=default)
+
+---
+
+## 📌 Pinned projects
+
+- **[[repo 1 name]](https://github.com/sunilkumarrana/[repo 1 name])**
+  [repo 1 description]
+  🟡 JavaScript (example) | ⭐ [star count]
+
+- **[[repo 2 name]](https://github.com/sunilkumarrana/[repo 2 name])**
+  [repo 2 description]
+  🔵 Python (example) | ⭐ [star count]
+
+---
+
+## 🔗 Connect
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)]([link])
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)]([LeetCode link])
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)]([Instagram link])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[Email address])
