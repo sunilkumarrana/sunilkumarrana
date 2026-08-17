@@ -7,7 +7,7 @@
   
   <rect x="0" y="0" width="250" height="85" class="card" />
   <text x="125" y="32" class="title">Repos</text>
-  <text x="125" y="65" class="value">9</text>
+  <text x="125" y="65" class="value">11</text>
   
   <rect x="275" y="0" width="250" height="85" class="card" />
   <text x="400" y="32" class="title">Contributions</text>

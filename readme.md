@@ -6,9 +6,7 @@ Building AI agents and web apps • open to opportunities
 
 **💻 Tech Stack**
 
-<!--START_TECH_STACK-->
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat" />
-<!--END_TECH_STACK-->
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat" /> <img src="https://img.shields.io/badge/React-61DAFB?style=flat" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat" />
 
 ---
 
@@ -30,10 +28,10 @@ Always learning, always building.
 
 **📌 Pinned projects**
 
-<!--START_PINNED_PROJECTS-->
-<a href="https://github.com/sunilkumarrana/2D-Game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilkumarrana&repo=2D-Game&theme=default&show_owner=false" width="48%" /></a>
-<a href="https://github.com/sunilkumarrana/AI-Agents-for-Business"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sunilkumarrana&repo=AI-Agents-for-Business&theme=default&show_owner=false" width="48%" /></a>
-<!--END_PINNED_PROJECTS-->
+<p align="center">
+  <img src="./pin1.svg" width="48%" />
+  <img src="./pin2.svg" width="48%" />
+</p>
 
 ---
 
